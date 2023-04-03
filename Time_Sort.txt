@@ -1,0 +1,8 @@
+0:0:0 vasya
+0:15:23 hello
+1:9:12  world
+23:59:00 node
+25:56:23 pop
+45:26:12 pepe
+123:2:56 array
+231:23:12 qwerty
